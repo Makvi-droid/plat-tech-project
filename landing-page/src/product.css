@@ -39,10 +39,9 @@
 }
 
 .product-card img {
-    width: 100%;
     height: auto;
     max-height: 220px; 
-    object-fit: cover; 
+    object-fit: contain; 
     border-radius: 10px;
 }
 
@@ -54,7 +53,7 @@
 }
 
 .price{
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     margin-bottom: 10px;
     font-family: 'Poppins', var(--font);
 }

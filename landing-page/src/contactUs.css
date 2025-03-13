@@ -52,16 +52,22 @@
 }
 
 .send-btn {
-    background: #ffb703;
+    background-color: none;
     border: none;
-    padding: 12px 15px;
     font-size: 1rem;
-    color: white;
     cursor: pointer;
+    color: #1d3557;
     border-radius: 8px;
-   
+    width: 10vw;
+    padding: 1rem;
+    transition: 0.3s;
+    border: 1px solid #1d3557;
 }
 
+.send-btn:hover{
+    background-color: #1d3557;
+    color: #ebf21f;
+}
 
 .contactUs-right {
     flex: 1;

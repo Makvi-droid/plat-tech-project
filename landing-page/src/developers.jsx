@@ -21,7 +21,7 @@ function Developers() {
                     </div>
                     <div className="developer-card">
                         <img src={dev3} alt="Developer 3" className="developer-img" />
-                        <p className="developer-name">Jason Christian Manilag</p>
+                        <p className="developer-name">Rheaven Castino</p>
                     </div>
                     <div className="developer-card">
                         <img src={dev4} alt="Developer 4" className="developer-img" />
@@ -29,7 +29,7 @@ function Developers() {
                     </div>
                     <div className="developer-card">
                         <img src={dev5} alt="Developer 5" className="developer-img" />
-                        <p className="developer-name">Rheaven Castino</p>
+                        <p className="developer-name">Jason Christian Manilag</p>
                     </div>
                 </div>
             </div>

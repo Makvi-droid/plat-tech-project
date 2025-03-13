@@ -62,35 +62,16 @@
     border: none;
     cursor: pointer;
     border-radius: 30px;
+    transition: 0.3s;
+}
+
+.shop-btn:hover{
+    background-color: #ebf21f;
+    color: #1d3557;
 }
 
 
 
 
-@media screen and (max-width: 768px) {
-    .content {
-        flex-direction: column-reverse; 
-        text-align: center;
-        gap: 30px; 
-    }
-
-    .right-content {
-        text-align: center; 
-    }
-}
-
-@media screen and (max-width: 480px) {
-    .right-content h1 {
-        font-size: 2rem; 
-    }
-
-    .right-content h4 {
-        font-size: 1rem;
-    }
-
-    .right-content p {
-        font-size: 0.9rem;
-    }
-}
 
 

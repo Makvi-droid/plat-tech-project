@@ -23,8 +23,8 @@ function Footer() {
                
                 <div className="footer-section">
                     <h3>Contact Info</h3>
-                    <p>Email: hello@reallygreatsite.com</p>
-                    <p>Phone: +123-456-7890</p>
+                    <p>Email: lumierejewelry@gmail.com</p>
+                    <p>Phone: +63 987 6543 210</p>
                 </div>
 
                 
